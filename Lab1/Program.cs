@@ -17,8 +17,7 @@ class Program
             Zwierze z = new Zwierze(nazwa, gatunek, liczbaNog);
 
         }
-        Zwierze z = new Zwierze(string "Michał", Zwierze z);
-        Console.WriteLine("Liczba zwierząt: " + Zwierze.getLiczbaZwierzat());
+        
 
     }
 }
